@@ -1,0 +1,15 @@
+{
+  "name": "Konstellation",
+  "version": "0.1.0",
+  "description": "Kon Discord Server Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Crying Surrogate",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
